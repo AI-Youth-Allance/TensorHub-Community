@@ -2,6 +2,13 @@
 
 Welcome to the **TensorHub-Community**! Below is a list of our **upcoming workshops** on TensorFlow, designed to help you grow your skills and dive deeper into machine learning. 
 
+
+# Discussions
+For any questions, ideas, or suggestions regarding our workshops, please visit our Discussions page on GitHub. Join the conversation with other community members!
+
+# [**Discussions page**](https://github.com/AI-Youth-Allance/TensorHub-Community/discussions).
+
+
 If you're interested in attending any of these workshops, please fill out the 
 # [**Interest/Registration Form**](https://forms.gle/KNMd9NcLveZTVrtP7).
 
